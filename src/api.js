@@ -1,7 +1,7 @@
 // export const geoApiOtions = {
 //     method: 'GET',
 // 	headers: {
-// 		'X-RapidAPI-Key': '05dc56e37cmshc52fc8d9520e7b7p1bc511jsn3edd5eae32f6',
+// 		'X-RapidAPI-Key': {Our API KEY},
 // 		'X-RapidAPI-Host': 'wft-geo-db.p.rapidapi.com'
 // 	}
 // };
